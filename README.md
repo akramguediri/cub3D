@@ -8,7 +8,7 @@ cub3d is a graphic design project aimed at improving skills in areas such as win
 - Displaying different wall textures based on the wall's facing direction.
 - Ability to set floor and ceiling colors independently.
 - Controlling the viewpoint within the maze using arrow keys (left and right) for looking around and WASD keys for movement.
-- Clean program exit on pressing <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">ESC</button> or closing the window.
+- Clean program exit on pressing ESC or closing the window.
 - Parsing scene description file (.cub) to render the maze with specified textures, colors, and player start position.
 
 ## Constraints
